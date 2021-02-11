@@ -1,5 +1,6 @@
 #code_by_danu
 #jangan_di_recode_ajg
+#semoga_yang_recode_hidupnya_sesat
  
 import time
 import os, sys, hashlib, json, random, re
