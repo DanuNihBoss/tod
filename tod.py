@@ -175,7 +175,7 @@ class MOONTON:
         )
       )
       ask = input(
-        '\033[94m KETIK N AJA\033[0m >> '
+        '\033[94m MAU PAKE PROXY?\033[0m >> '
       )
       if ask.lower(
       ).strip(
