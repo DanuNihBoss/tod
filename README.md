@@ -28,4 +28,6 @@
 
 •masukin nama empas
 
+•proxy/tidak y/n
+
 •jangan lupa subscribe
