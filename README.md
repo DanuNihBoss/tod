@@ -27,3 +27,5 @@
 •python tod.py
 
 •masukin nama empas
+
+•jangan lupa subscribe
